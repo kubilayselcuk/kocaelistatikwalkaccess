@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary working data
+tmp*/
+*_tmp/
+input_data/
+input_data_multi/
+wai_input/
+
+# Archives and generated packages
+*.rar
+*.zip
+*.7z
+
+# Logs
+*.log
